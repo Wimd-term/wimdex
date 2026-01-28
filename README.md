@@ -6,13 +6,12 @@ How to make my own extentions?
 absoulotly we have structure on Wimd which you can use that structure on your app!
 
 if you want use examples you need to make files like this:
-------------------------------------------
-| My project \
-| main.py
-  | extensions\
-    | 001.py
-    | ...
-------------------------------------------
+
+* My project \
+* main.py
+  * extensions\
+    * 001.py
+    * ...
 
 so lets code on it!
 
